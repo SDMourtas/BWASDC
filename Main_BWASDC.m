@@ -4,13 +4,13 @@
 %                                                                   %
 %  Developed in MATLAB R2021a                                       %
 %                                                                   %
-%  Author and programmer: R. Xu, B. Sun, C. Lin, T.E. Simos,        %
-%                         S.D. Mourtas, V.N. Katsikis, D. Lagios,   %
+%  Author and programmer: Y. He, X. Dong, T.E. Simos, S.D. Mourtas, %
+%                         V.N. Katsikis, D. Lagios,                 %
 %                         P. Zervas, G. Tzimas                      %
 %                                                                   %
 %   e-Mail: spirosmourtas@gmail.com, vaskatsikis@econ.uoa.gr        %
 %                                                                   %
-%   Main paper: R. Xu, B. Sun, C. Lin, T.E. Simos, S.D. Mourtas,    %
+%   Main paper: Y. He, X. Dong, T.E. Simos, S.D. Mourtas,           %
 %               V.N. Katsikis, D. Lagios, P. Zervas and G. Tzimas,  %
 %              "A bio-inspired weights and structure determination  %
 %              neural network for multiclass classification:        %
