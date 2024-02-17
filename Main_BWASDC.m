@@ -15,7 +15,7 @@
 %              "A bio-inspired weights and structure determination  %
 %              neural network for multiclass classification:        %
 %              Applications in occupational classification systems,"%
-%              (submitted)                                          %
+%              AIMS Mathematics, 9(1), 2411-2434 (2024)             %
 %                                                                   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
