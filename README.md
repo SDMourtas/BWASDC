@@ -3,7 +3,7 @@ Implementation of a 3-layer feed-forward neural network model that is trained us
 The purpose of this package is to enhance the WASD algorithm's learning process with a bio-inspired optimization algorithm, called the beetle antennae search (BAS).\
 The BWASDC's effectiveness is evaluated through applications in occupational classification systems, such as the O\*NET-SOC 2010 and ISCO-08.\
 The main articles used are the followings:
-*	Y. He, X. Dong, T.E. Simos, S.D. Mourtas, V.N. Katsikis, D. Lagios, P. Zervas and G. Tzimas, "A bio-inspired weights and structure determination neural network for multiclass classification: Applications in occupational classification systems," (submitted)
+*	Y. He, X. Dong, T.E. Simos, S.D. Mourtas, V.N. Katsikis, D. Lagios, P. Zervas and G. Tzimas, "A bio-inspired weights and structure determination neural network for multiclass classification: Applications in occupational classification systems," AIMS Mathematics, 9(1), 2411-2434 (2024)
 
 Also, the kit includes the following four datasets:
 *	ONETD, taken from https://www.onetcenter.org/dl_files/database/db_20_1_excel/Sample%20of%20Reported%20Titles.xlsx
